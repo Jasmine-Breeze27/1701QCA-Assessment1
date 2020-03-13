@@ -13,7 +13,7 @@ SAY "HELLO" TO THE BBC micro:bit!
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](IMG20200312190353[1].jpg)
 
 (Insert a caption here)
 
