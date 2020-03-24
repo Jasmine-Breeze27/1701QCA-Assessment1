@@ -46,39 +46,33 @@ The potentiometer is turned 3/4 of the way, presenting a reasonably bright light
 
 In this experiment, something new to me was the complexity of the wiring and understanding how the circuit worked.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as the dimming of lights in houses, screens, rgb hardware, etc.
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### USING A TRANSISTOR TO DRIVE A MOTOR ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](IMG20200312194526[1].jpg)
 
-(Insert a caption here)
+The fan is increasingly rotating faster until it reaches maximum speed and then slows until it stops. This process is repeated
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something I learned was that various components can be connected to a microbit and coded individually.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as fans self regulating their speed due to the proximity of an object in front of it. This particular project could also be developed into a regulates air rotation, therefore if there is a lack of air flow, the fan will speed up.
 
-### Experiment name ###
-
-(Replace this with the experiment name)
+### SETTING THE TONE WITH A PIEZO BUZZER ###
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](IMG20200312195234[1].jpg)
 
-(Insert a caption here)
+The buzzer plays a tone whenever one of the buttons is pressed.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was that you can either choose notes by picking from the MIDI keyboard or frequency which can incorporate math aswell.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as personalised doorbells, ringtones, sensor-controlled-messages, etc.
 
