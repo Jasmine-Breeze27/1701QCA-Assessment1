@@ -4,13 +4,57 @@
 
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
-## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+## Micro:bit Guitar ##
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
+Mini DIY Cardboard iPod Boombox
+
+https://au.pcmag.com/best-tech/19222/10-practical-gadgets-made-from-cardboard
+
+![Image](missingimage.png)
+
+This project is related to mine because it is made from cardboard and has a music-related function.
+
+### Related project 2 ###
+Cardboard Electric Guitar
+
+https://www.instructables.com/id/Cardboard-Electric-Guitar/
+
+![Image](missingimage.png)
+
+This project is related to mine because the whole project, from function and materials to fabrication, the goal is very similar. The only difference is that instead of a micro:bit, he has used another form of technology to create sound.
+
+### Related project 3 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 4 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 5 ###
+(Insert name of project)
+
+(Insert URL to project)
+
+![Image](missingimage.png)
+
+This project is related to mine because (insert reasons here).
+
+### Related project 6 ###
 (Insert name of project)
 
 (Insert URL to project)
@@ -26,11 +70,11 @@ This project is related to mine because (insert reasons here).
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before the reading, I always believed that interactive objects were created for people to learn how to use them. I understood that some things were designed badly, for example: doors, and that this encouraged others to build them better, but I believed people just learnt to use whatever was placed in front of them.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+I learnt about signifiers and affordances and began to notice these things throughout my day in everyday objects, judging them all. If a door was not labelled, I would immediately be annoyed at it and begin to think on how I would change it. When using an application, I would notice the mappping of the pages and make a judgement based on how easy and efficient the navigation was. The most important for me was the feedback. I've always known that an elevator button turns coloured when pressed and a crossing button doesn't, but this realisation made me wonder the process behind crossing buttons; do they count the amount of pushes or only trigger an action like an elevator? Overall, this reading opened my mind to the design of everything.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+I would like to know how all of these 
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
@@ -64,8 +108,6 @@ This project is related to mine because (insert reasons here).
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
 
-*This should have quite a lot of information!*
-
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 The development phase of this project began with the coding. I copied the code provided by micro:bit's guitar tutorial and only changed the tones of the buttons.
@@ -78,9 +120,54 @@ I then used online sources to find the notes for the desired songs I wanted to r
 ![Image](4.jpg)
 
 *Websites are: https://easy-letter-notes.com/stairway-to-heaven/ and https://noobnotes.net/careless-whisper-george-michael/*
-After this, the code was finished!
+After this, the code was finished and the physical object had to be built.
 
-*Include screenshots of the code you have used.*
+This process began and an immediate issue arrised. The guitar tutorial required alligator clips and I did not own any so I drove to Bunnings and bought alligator clips and some wire which were put together by using pliers.
+
+![Image](5.jpg)
+
+Then a sketch was made of an electrical guitar and redrawn onto cardboard. Two of these were cut out.
+
+![Image](6.jpg)
+![Image](7.jpg)
+
+A hole was cut into the back piece in order to create an access panel to the electricals that would be placed inside.
+
+![Image](8.jpg)
+
+Another smaller shape was added to the front piece for style and a hole was cut out as a place to display the micro:bit.
+
+![Image](9.jpg)
+
+On the inside of the front piece, the removal of some cardboard was necessary in order fit the micro:bit, alligator clips and battery pack port.
+
+![Image](10.jpg)
+![Image](11.jpg)
+![Image](12.jpg)
+
+A circular shape was cut from the front piece in order for the speaker to fit inside. A thin strip of cardboard was left down the middle to hold the speaker while the alligator clips attached from the inside.
+
+![Image](13.jpg)
+![Image](14.jpg)
+
+Side pieces were made in order to make the guitar more dimensional. These pieces were secured with tape and glue in order to ensure that it held the complex shape.
+
+![Image](15.jpg)
+![Image](16.jpg)
+![Image](17.jpg)
+![Image](18.jpg)
+
+A neck was then cut from the cardboard. The top side had a flat, straight piece while the bottom was much wider. This was so the neck would also be more three dimensional, curving around to make a semi-circular shape.
+
+![Image](19.jpg)
+
+After this had been attached, a design was put on the guitar to reflect the sound. I felt this particular pattern was trendy, chaotic and nailed the crazy sound of the guitar. It was not placed arounf the entire guitar because I worried it would look to busy and the carboard added a really nice colour.
+
+![Image](21.jpg)
+
+After this, the shell was complete! The micro:bit battery pacj and alligator clips were secured with tape and then it was ready to play.
+
+![Image](22.jpg)
 
 ## Project outcome ##
 
