@@ -68,7 +68,17 @@ This project is related to mine because (insert reasons here).
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+The development phase of this project began with the coding. I copied the code provided by micro:bit's guitar tutorial and only changed the tones of the buttons.
+
+![Image](1.jpg)
+
+I then used online sources to find the notes for the desired songs I wanted to replicate for the buttons.
+
+![Image](3.jpg)
+![Image](4.jpg)
+
+*Websites are: https://easy-letter-notes.com/stairway-to-heaven/ and https://noobnotes.net/careless-whisper-george-michael/*
+After this, the code was finished!
 
 *Include screenshots of the code you have used.*
 
