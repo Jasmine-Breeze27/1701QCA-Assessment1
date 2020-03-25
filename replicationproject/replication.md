@@ -74,9 +74,10 @@ Before the reading, I always believed that interactive objects were created for 
 
 I learnt about signifiers and affordances and began to notice these things throughout my day in everyday objects, judging them all. If a door was not labelled, I would immediately be annoyed at it and begin to think on how I would change it. When using an application, I would notice the mappping of the pages and make a judgement based on how easy and efficient the navigation was. The most important for me was the feedback. I've always known that an elevator button turns coloured when pressed and a crossing button doesn't, but this realisation made me wonder the process behind crossing buttons; do they count the amount of pushes or only trigger an action like an elevator? Overall, this reading opened my mind to the design of everything.
 
-I would like to know how all of these 
+I would like to know how this information has influenced everyday objects so far. There have been many references to doors, sinks and buttons being designed terribly but what has been changed and implemented into the world today? Have any of these designs significantly grown in popularity? Are some of them now used globally? These are all questions that I would like to laern more about.
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This reading does somewhat relate to my project but can definitely be used to improve it. The micro:bit guitar already affords lifting, playing and entertainment and these signifiers are also present. Feedback is incorporated through the micro:bit LEDs which show light and axis levels. Some ways this reading could improve the overall quality of this project could be 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -173,11 +174,11 @@ After this, the shell was complete! The micro:bit battery pacj and alligator cli
 
 *Complete the following information.*
 
-### Project title ###
+### Micro:bit Guitar ###
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project is an electronic guitar that has been coded to produce different frequencies, depending on the light level and axis/positioning of the guitar. This is due to the use of the accelerometer and light sensor on the micro:bit, reacting by producing different frequencies. This project does not have a targeted audience or age range as it is easy to play and very lightweight. Because it is an instrument, the typical use is purely for entertainment.
 
 ### Showcase image ###
 
