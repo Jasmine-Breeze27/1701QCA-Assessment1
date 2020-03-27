@@ -102,7 +102,7 @@ Before this reading, I was aware of the 'testing, revising, refining' method tha
 
 ## Interaction flowchart ##
 
-![Image](flowchart.JPG)
+![Image](FlowChart.jpg)
 
 ## Process documentation
 
