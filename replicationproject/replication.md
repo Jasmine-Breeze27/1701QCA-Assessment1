@@ -173,9 +173,8 @@ This project is an electronic guitar that has been coded to produce different fr
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](action1.jpg)
+![Image](action2.jpg)
 
 ### Reflection ###
 
