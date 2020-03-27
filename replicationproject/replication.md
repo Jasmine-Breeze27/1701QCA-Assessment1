@@ -86,23 +86,18 @@ The ideas in this reading do not directly correlate with my project but can be u
 
 Before this reading, I was aware of the 'testing, revising, refining' method that designers and developers used to reach a final solution but I was completely unaware that the testing phase could happen in public with real subjects. I always believed that there would be a few tests done by the developer themselves and then peers, and then end with an already refined prototype that would be used in public. This was challenged by the reading because their machine was tested in a store without much prior testing. This ensured that the reactions were genuine, unlike those of the designer themselves or peers.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
-This reading made me realise that this method of testing is much more effective and 
+This reading made me realise that this method of testing is much more effective. Through each test of the 'customer counter' there were different realisations and, therefore, always new ways to improve the over product. Throughout the experiment presented in the reading, there were plenty of errors found, for example: the creepy look of a camera taped under a table, the camera counting one person multiple times, etc. This also educated me in the importance of interaction design as the look of a product affects initial reactions and thoughts of functionality completely. Some people were scared of the camera under the table because of obvious safety reasons while others were unbothered, but when there is a camera pointing at you with a big red button and a 'photobooth' sign, people are happy to interact. This reading exposed me to human behaviour around machines and just how difficult it is to design something that everyone can enjoy.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+There is one main question I have after this reading. Some people were spooked from the camera taped under the table but others were completely unbothered, even if they did notice. There is a wide variety of human behaviours and reactions so how is a developer suppose to cater to all humans when they design a product? In this reading, some spoke up pand talked to the store workers about it while others rushed out hurriedly. Since there are so many different variables when it comes to human interaction, how can anyone design a product that achieves the target reaction from everyone? It seems like an impossible question with no answer but I would be interested to hear if anyone even came close.
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-
+This reading relates to my project but also could drastically improve it. It relates to the guitar because there were prototyping stages were multiple layers had to be made, fixed or duplicated because of issues fitting together or looking incorrect. There were many attempts at creating a suitable design and making sure it still looked attractive. A peer testing phase was also implemented to gain initial reactions of the guitar. The way the ideas in this reading could improve the guitar is by recieving feedback from strangers or engaging in a critique session. These methods would have pointed out flaws and much needed improvements.
 
 ## Interaction flowchart ##
 
 ![Image](FlowChart.jpg)
 
 ## Process documentation
-
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 The development phase of this project began with the coding. I copied the code provided by micro:bit's guitar tutorial and only changed the tones of the buttons.
 
@@ -184,7 +179,7 @@ This project is an electronic guitar that has been coded to produce different fr
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+The parts of the project that were successful was the fabrication and final look of the guitar. I was very happy with the design on the guitar and the peer feedback supported this. Another successful aspect was how the guitar came together and how the circuitry fit so well within it. On the other hand, everything could have been improved. While this was only meant to be a prototype, the body, especially the neck, could have been improved to make a more realistic shape. The code could have been adjusted to be better calibrate the light sensor for the environment it was used in. There also could have been more detailing on the neck to better blend with the body.
 
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
