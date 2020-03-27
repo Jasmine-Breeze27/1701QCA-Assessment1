@@ -14,7 +14,7 @@ Mini DIY Cardboard iPod Boombox
 
 https://au.pcmag.com/best-tech/19222/10-practical-gadgets-made-from-cardboard
 
-![Image](/replicationproject/cardboard boombox.PNG)
+![Image](cardboardboombox.PNG)
 
 This project is related to mine because it is made from cardboard and has a music-related function. It is much simpler than the guitar project but there are still difficult aspects like the design and precise measurements.
 
@@ -23,7 +23,7 @@ Cardboard Electric Guitar
 
 https://www.instructables.com/id/Cardboard-Electric-Guitar/
 
-![Image](cardboard guitar.PNG)
+![Image](cardboardguitar.PNG)
 
 This project is related to mine because the whole project, from function, materials and fabrication, the goal is very similar. The only difference is that instead of a micro:bit, he has used another form of technology to create sound.
 
@@ -32,7 +32,7 @@ Make a Cardboard MIDI Guitar with the Touch Board
 
 https://www.bareconductive.com/make/make-a-midi-cardboard-guitar-with-the-touch-board/
 
-![Image](cardboard touch board guitar.PNG)
+![Image](cardboardtouchboardguitar.PNG)
 
 This project is related to mine because the materials, fabrication and concept are very similar. The difference is that he has used a touch board instead of a light sensor and accelerometer to control the sound. The projects are both simple but very entertaining.
 
@@ -41,7 +41,7 @@ Creating A DIY Cardboard Guitar With Nintendo Labo
 
 https://www.adsrsounds.com/news/creating-a-diy-cardboard-guitar-with-nintendo-labo/
 
-![Image](guitar nintendo labo.PNG)
+![Image](guitarnintendolabo.PNG)
 
 This project is related to mine because the materials, fabrication and concept are similar; the reason for this being htey are both interactive guitars that are programmed to produce sound. This related project is actually very interesting because there is a touchscreen with keys that play the notes within a chord. The makers have taken this one step further by using the remote to control which chord the touchscreen will play, for example, if the analog stick is pushed to left, an A minor chord may play. This is all similar to my project except the micro:bit guitar has been coded to control the pitch automatically.
 
@@ -50,7 +50,7 @@ Pedometer (Arduino 101)
 
 https://create.arduino.cc/projecthub/brudarko/pedometer-arduino-101-ef494b?ref=tag&ref_id=accelerometer&offset=13
 
-![Image](arduino pedometer.PNG)
+![Image](arduinopedometer.PNG)
 
 This project is related to mine because it uses the accelerometer. In this related project, the accelerometer has been used as a step counter that provides the steps, distance and calories burned. In the guitar project, it has been used to control the tempo of the pitches produced.
 
@@ -59,7 +59,7 @@ Valentine's Sunflower
 
 https://www.hackster.io/circuito-io-team/valentine-s-sunflower-3cdd90
 
-![Image](valentines sunflower.PNG)
+![Image](valentinessunflower.PNG)
 
 This project is related to mine because it uses the light sensor as part of its technology. In this case, the light sensor has been used to open a flower during higher light levels and close it during lower ones. This is similar to my project because the light level controls the positioning of a motor for the flower and it controls the pitch of tone in the guitar.
 
