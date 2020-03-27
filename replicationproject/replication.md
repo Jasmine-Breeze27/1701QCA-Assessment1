@@ -82,16 +82,16 @@ This reading does somewhat relate to my project but can definitely be used to im
 
 Before this reading I again believed that technology was made and then humans would have to learn to use it. This led me to believe that applications,software and websites never tried to make the interaction easy, but instead forced you to fail, learn and repeat. This was completely challenged by the reading because these microinteractions are designed to make interaction more effective, efficient and exceptional in general. They are meant to enhance websites, applications and software in order to provide a well refined interaction.
 
-From this reading, I learned that microinteractions are just as vital as any other component because they add depth to functions, making it evident that time and effort were put in. This creates a professional 'look and feel' that adds value to a website/aplication.
+From this reading, I learned that microinteractions are just as vital as any other component because they add depth to functions, making it evident that time and effort were put in. This creates a professional 'look and feel' that adds value to a website/aplication. This added to my knowledge by introducing me to the importance of details and how they can improve quality significantly.
 
 While microinteractions are extremely valuable and helpful, how does a developer know when there are enough? How do they not add too many? There are countless cases where these small details are not incorporated but when does it become too much and is there even a limit to how many there can be? I wonder about these questions because if the presence of microinteractions translates to a resolved website/application, then why don't developers go insane with the amount of them? The universal rules 'keep it simple' and 'less is more' both imply that a website is much better when there is less on the page, which is contradictory to my first questions. These are all questions and thoughts I have been left with from this reading.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-The ideas in this reading do not directly correlate with my project but can be used to improve it. 
+The ideas in this reading do not directly correlate with my project but can be used to improve it. Smaller optional components could be added to increase the interactivity of the guitar. This could be done in the form of colourful lights that have a button to change the colours or a small library that can activate different songs with a specific gesture. Becuase this project is quite simple, there aren't many functions to which microinteractions can be added.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before this reading, I was aware of the 'testing, revising, refining' method that  
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
@@ -101,9 +101,8 @@ The ideas in this reading do not directly correlate with my project but can be u
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flowchart.JPG)
 
 ## Process documentation
 
