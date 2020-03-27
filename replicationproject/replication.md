@@ -14,7 +14,7 @@ Mini DIY Cardboard iPod Boombox
 
 https://au.pcmag.com/best-tech/19222/10-practical-gadgets-made-from-cardboard
 
-![Image](cardboard boombox.PNG)
+![Image](/replicationproject/cardboard boombox.PNG)
 
 This project is related to mine because it is made from cardboard and has a music-related function. It is much simpler than the guitar project but there are still difficult aspects like the design and precise measurements.
 
