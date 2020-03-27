@@ -172,13 +172,11 @@ After this, the shell was complete! The micro:bit battery pacj and alligator cli
 
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Micro:bit Guitar ###
 
 ### Project description ###
 
-This project is an electronic guitar that has been coded to produce different frequencies, depending on the light level and axis/positioning of the guitar. This is due to the use of the accelerometer and light sensor on the micro:bit, reacting by producing different frequencies. This project does not have a targeted audience or age range as it is easy to play and very lightweight. Because it is an instrument, the typical use is purely for entertainment.
+This project is an electronic guitar that has been coded to produce different frequencies, depending on the light level and axis/positioning of the guitar. This is due to the use of the accelerometer and light sensor on the micro:bit, reacting by producing different frequencies. The accelerometer is responisble for changing the tempo, depending on the orientation and posistioning of the guitar while the light sensor controls the pitch of the sound produced by the guitar. This project does not have a targeted audience or age range as anyone can play guitar. The guitar is much lighter than a regular guitar and very easy to pplay with, therefore all age groups are able to have a turn. Because it is an instrument, the primary use is entertainment but this could also be an educational project as well, teaching the functions and uses of the micro:bit and its parts.
 
 ### Showcase image ###
 
