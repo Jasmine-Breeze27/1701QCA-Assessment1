@@ -70,18 +70,18 @@ This project is related to mine because it uses the light sensor as part of its 
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-Before the reading, I always believed that interactive objects were created for people to learn how to use them. I understood that some things were designed badly, for example: doors, and that this encouraged others to build them better, but I believed people just learnt to use whatever was placed in front of them.
+Before the reading, I always believed that interactive objects were created for people to learn how to use them. I understood that some things were designed badly, for example: doors, and that this encouraged others to build them better, but I believed people just learnt to use whatever was placed in front of them and over time, be able to use it more effectively.
 
 I learnt about signifiers and affordances and began to notice these things throughout my day in everyday objects, judging them all. If a door was not labelled, I would immediately be annoyed at it and begin to think on how I would change it. When using an application, I would notice the mappping of the pages and make a judgement based on how easy and efficient the navigation was. The most important for me was the feedback. I've always known that an elevator button turns coloured when pressed and a crossing button doesn't, but this realisation made me wonder the process behind crossing buttons; do they count the amount of pushes or only trigger an action like an elevator? Overall, this reading opened my mind to the design of everything.
 
-I would like to know how this information has influenced everyday objects so far. There have been many references to doors, sinks and buttons being designed terribly but what has been changed and implemented into the world today? Have any of these designs significantly grown in popularity? Are some of them now used globally? These are all questions that I would like to laern more about.
+I would like to know how this information has influenced everyday objects so far. There have been many references to doors, sinks and buttons being designed terribly but what has been changed and implemented into the world today? Have any of these designs significantly grown in popularity? Are some of them now used globally? These are all questions that I would like to learn more about.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
-This reading does somewhat relate to my project but can definitely be used to improve it. The micro:bit guitar already affords lifting, playing and entertainment and these signifiers are also present. Feedback is incorporated through the micro:bit LEDs which show light and axis levels. Some ways this reading could improve the overall quality of this project could be 
+This reading does somewhat relate to my project but can definitely be used to improve it. The micro:bit guitar already affords lifting, playing and entertainment and these signifiers are also present. Feedback is incorporated through the micro:bit LEDs which show light and axis levels. Some ways this reading could improve the overall quality of this project could be to add more feedback and visual/textual signs that let the user understand what is happening inside. This could be done in the form of instructions or small icons. There should also be more functions such as twisting buttons and levers that affect the sound and volume in order to make the project much more interactive.
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before this reading I again believed that technology was made and then humans would have to learn to use it. This led me to believe that applications,software and websites never tried to make the interaction easy, but instead forced you to fail, learn and repeat. This was completely challenged by the reading because these microinteractions are designed to make interaction more effective, efficient and exceptional in general. They are meant to enhance websites, applications and software in order to provide a well refined interaction.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
@@ -166,7 +166,7 @@ After this had been attached, a design was put on the guitar to reflect the soun
 
 ![Image](21.jpg)
 
-After this, the shell was complete! The micro:bit battery pacj and alligator clips were secured with tape and then it was ready to play.
+After this, the shell was complete! The micro:bit battery pack and alligator clips were secured with tape and then it was ready to play.
 
 ![Image](22.jpg)
 
