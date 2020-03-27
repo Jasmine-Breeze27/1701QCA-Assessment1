@@ -1,13 +1,10 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Micro:bit Guitar ##
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Mini DIY Cardboard iPod Boombox
@@ -64,9 +61,6 @@ https://www.hackster.io/circuito-io-team/valentine-s-sunflower-3cdd90
 This project is related to mine because it uses the light sensor as part of its technology. In this case, the light sensor has been used to open a flower during higher light levels and close it during lower ones. This is similar to my project because the light level controls the positioning of a motor for the flower and it controls the pitch of tone in the guitar.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -90,10 +84,10 @@ The ideas in this reading do not directly correlate with my project but can be u
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
-Before this reading, I was aware of the 'testing, revising, refining' method that  
+Before this reading, I was aware of the 'testing, revising, refining' method that designers and developers used to reach a final solution but I was completely unaware that the testing phase could happen in public with real subjects. I always believed that there would be a few tests done by the developer themselves and then peers, and then end with an already refined prototype that would be used in public. This was challenged by the reading because their machine was tested in a store without much prior testing. This ensured that the reactions were genuine, unlike those of the designer themselves or peers.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+This reading made me realise that this method of testing is much more effective and 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
