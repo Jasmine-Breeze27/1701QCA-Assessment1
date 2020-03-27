@@ -14,54 +14,54 @@ Mini DIY Cardboard iPod Boombox
 
 https://au.pcmag.com/best-tech/19222/10-practical-gadgets-made-from-cardboard
 
-![Image](missingimage.png)
+![Image](cardboard boombox.PNG)
 
-This project is related to mine because it is made from cardboard and has a music-related function.
+This project is related to mine because it is made from cardboard and has a music-related function. It is much simpler than the guitar project but there are still difficult aspects like the design and precise measurements.
 
 ### Related project 2 ###
 Cardboard Electric Guitar
 
 https://www.instructables.com/id/Cardboard-Electric-Guitar/
 
-![Image](missingimage.png)
+![Image](cardboard guitar.PNG)
 
-This project is related to mine because the whole project, from function and materials to fabrication, the goal is very similar. The only difference is that instead of a micro:bit, he has used another form of technology to create sound.
+This project is related to mine because the whole project, from function, materials and fabrication, the goal is very similar. The only difference is that instead of a micro:bit, he has used another form of technology to create sound.
 
 ### Related project 3 ###
-(Insert name of project)
+Make a Cardboard MIDI Guitar with the Touch Board
 
-(Insert URL to project)
+https://www.bareconductive.com/make/make-a-midi-cardboard-guitar-with-the-touch-board/
 
-![Image](missingimage.png)
+![Image](cardboard touch board guitar.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because the materials, fabrication and concept are very similar. The difference is that he has used a touch board instead of a light sensor and accelerometer to control the sound. The projects are both simple but very entertaining.
 
 ### Related project 4 ###
-(Insert name of project)
+Creating A DIY Cardboard Guitar With Nintendo Labo
 
-(Insert URL to project)
+https://www.adsrsounds.com/news/creating-a-diy-cardboard-guitar-with-nintendo-labo/
 
-![Image](missingimage.png)
+![Image](guitar nintendo labo.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because the materials, fabrication and concept are similar; the reason for this being htey are both interactive guitars that are programmed to produce sound. This related project is actually very interesting because there is a touchscreen with keys that play the notes within a chord. The makers have taken this one step further by using the remote to control which chord the touchscreen will play, for example, if the analog stick is pushed to left, an A minor chord may play. This is all similar to my project except the micro:bit guitar has been coded to control the pitch automatically.
 
 ### Related project 5 ###
-(Insert name of project)
+Pedometer (Arduino 101)
 
-(Insert URL to project)
+https://create.arduino.cc/projecthub/brudarko/pedometer-arduino-101-ef494b?ref=tag&ref_id=accelerometer&offset=13
 
-![Image](missingimage.png)
+![Image](arduino pedometer.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses the accelerometer. In this related project, the accelerometer has been used as a step counter that provides the steps, distance and calories burned. In the guitar project, it has been used to control the tempo of the pitches produced.
 
 ### Related project 6 ###
-(Insert name of project)
+Valentine's Sunflower
 
-(Insert URL to project)
+https://www.hackster.io/circuito-io-team/valentine-s-sunflower-3cdd90
 
-![Image](missingimage.png)
+![Image](valentines sunflower.PNG)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses the light sensor as part of its technology. In this case, the light sensor has been used to open a flower during higher light levels and close it during lower ones. This is similar to my project because the light level controls the positioning of a motor for the flower and it controls the pitch of tone in the guitar.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
