@@ -4,8 +4,6 @@
 
 ## Instructions ##
 
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
-
 ### SAY "HELLO" TO THE BBC micro:bit! ###
 
 #### Photo of completed project ####
